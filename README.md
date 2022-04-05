@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aTsekov
 - 👀 I’m interested in C# Web development
-- 🌱 I’m currently learning C#, SQL,ASP.NET, JS,
+- 🌱 I’m currently learning C#, SQL,ASP.NET, JS.
 - 📫 How to reach me: antoni.tsekov@gmail.com
 
 <!---
